@@ -10,7 +10,7 @@
       - Pytorch Prediction: nextjournal.com/kaicd/pytorch를-사용한-qsar-모델-구축prediction
       - Pytorch Classification: nextjournal.com/kaicd/pytorch를-사용한-qsar-모델-구축classification2
   - Day 3
-    - PPT Link :
+    -    PPT Link :
       - GraphDTA : https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day3/3%EC%9D%BC%EC%B0%A8_GraphDTA_%EC%9D%B4%ED%98%84%EC%88%98_%EC%97%B0%EA%B5%AC%EC%9B%90.pdf
       - Generative Model : https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day3/3%EC%9D%BC%EC%B0%A8_What%20is%20Generative%20Model_%EB%B0%A9%EC%A4%80%EC%9D%BC_%EC%97%B0%EA%B5%AC%EC%9B%90.pdf
     - Code Links:
