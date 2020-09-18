@@ -18,7 +18,7 @@
       - Generative Model : https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day3/3%EC%9D%BC%EC%B0%A8_What%20is%20Generative%20Model_%EB%B0%A9%EC%A4%80%EC%9D%BC_%EC%97%B0%EA%B5%AC%EC%9B%90.pdf
     - Code Links:
       - GraphDTA : https://nextjournal.com/kaicd/graphdtalast-version/
-      - VAE : https://nextjournal.com/kaicd/vae-%EC%8B%A4%EC%8A%B5_v1
+      - VAE : https://nextjournal.com/kaicd/vae_v4/
 - advanced
   - Day 1
   - Day 2
