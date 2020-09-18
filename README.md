@@ -15,7 +15,7 @@
     - Orientation PPT Link: https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day3/3일차_orientation_김수헌_연구원.pdf
     - PPT Link : 
       - GraphDTA : https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day3/3%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A1_GraphDTA_%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A7%E1%86%AB%E1%84%89%E1%85%AE_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%8B%E1%85%AF%E1%86%AB.pdf
-      - Generative Model : https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day3/3%EC%9D%BC%EC%B0%A8_What%20is%20Generative%20Model_%EB%B0%A9%EC%A4%80%EC%9D%BC_%EC%97%B0%EA%B5%AC%EC%9B%90.pdf
+      - Generative Model : https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day3/3%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A1_What%20is%20Generative%20Model_%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%8B%E1%85%AF%E1%86%AB.pdf
     - Code Links:
       - GraphDTA : https://nextjournal.com/kaicd/graphdtalast-version/
       - VAE : https://nextjournal.com/kaicd/vae_v4/
