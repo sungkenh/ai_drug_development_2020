@@ -2,6 +2,7 @@
 - beginner
   - Day 1
   - Day 2
+    - 2일차 ipynb 노트북 버전 파일 업로드 중입니다.
     - Orientation PPT Link: https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day2/2일차_orientation_Bayar_책임연구원.pdf
     -    PPT Link : https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day2/2%EC%9D%BC%EC%B0%A8_Molecule%20Representations_%ED%99%8D%EC%84%B1%EC%9D%80_%EC%97%B0%EA%B5%AC%EC%9B%90.pdf
    
